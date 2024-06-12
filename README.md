@@ -54,11 +54,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 - ** Browse and select tracks from your music library to visualize.
 
 ## Visualization Screen
-- ** Experience dynamic visual effects synced with your music.
-- ** Use on-screen controls to play, pause, or skip tracks.
+- * Experience dynamic visual effects synced with your music.
+- * Use on-screen controls to play, pause, or skip tracks.
 
 ## Settings Screen
-- ** Customize visual effects and app settings to enhance your experience.
+- * Customize visual effects and app settings to enhance your experience.
 
 ## 🛠️ Technologies Used
 - **React Native:** Framework for building native apps using React.
@@ -99,5 +99,5 @@ This project is licensed under the MIT License. See the ![LICENSE] file for deta
 
 ## 📬 Contact
 - **Name:** Immanuella Baajike
-- **Email:** ![baajikeimmanuella@gmail.com]
-- **Github:** ![Baajike]
+- **Email:** !baajikeimmanuella@gmail.com
+- **Github:** !Baajike
