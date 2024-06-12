@@ -33,3 +33,19 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    git clone https://github.com/yourusername/mymusicvisualizer.git
    cd mymusicvisualizer
+
+2. **Install Dependencies:**
+   ```bash
+   npm install
+
+3. **Install Expo CLI globally (if already not installed):**
+   ```bash
+   npm install -g expo-cli
+
+4. **Start the development server:**
+   ```bash
+   npx expo start
+
+5. **Run on your device:**
+   - * Scan the QR code displayed in the terminal using the Expo Go app on your Android or iOS device.*
+   - * Alternatively, use an emulator for your platform (Android Studio or Xcode).*
